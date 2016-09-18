@@ -1,0 +1,105 @@
+h1 {
+font-size: 26px;
+font-family: times new roman;
+color: #000;
+border-top-style: dotted;
+border-top-color: #000;
+border-top-width: 2px;
+border-bottom-style: dotted;
+border-bottom-width: 2px;
+border-bottom-color: #000;
+margin: 30px;
+padding: 20px;
+}
+
+
+h2 {
+	font-size: 20px;
+font-family: times new roman;
+color: #000;
+}
+
+p.index.html {
+	font size: 14px;
+font family: times new roman;
+color: #000;
+width: 30em;
+word-wrap: break-word;
+text-align: left;
+}
+
+p.portfoilo.html {
+	font-size: 14px;
+	font-family: times new roman;
+	color: #000;
+}
+
+#jumper {
+	overflow: hidden;
+}
+
+body {
+	background-color: #f2f2f2;
+border-bottom: 2px dotted black;
+margin: 30px;
+}
+
+#jump {
+	width: 50%;
+	height: auto;
+}
+
+#googleearth {
+	width: 50%;
+	height: auto;
+}
+
+#matchmaker {
+	width: 50%;
+	height: auto;
+}
+
+#snapfish {
+	width: 50%;
+	height: auto;
+}
+
+#date {
+	font-size: 12px;
+}
+
+#google {
+	font-style: italic;
+}
+
+#earth {
+	font-size: 14px;
+}
+
+#wd {
+	font-style: italic;
+}
+
+#startup {
+	font-size: 14px;
+}
+
+#dates {
+	font-size: 12px;
+}
+
+#wd2 {
+	font-style: italic;
+}
+
+#citi {
+font-size: 14px;
+}
+
+##dates2 {
+font-size: 12px;
+}
+
+
+
+
